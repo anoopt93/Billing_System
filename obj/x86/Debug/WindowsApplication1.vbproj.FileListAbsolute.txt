@@ -1,0 +1,106 @@
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home.resources
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Anoop.accdb
+c:\users\sofsis\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\SOFSIS\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Invoice.resources
+C:\Users\SOFSIS\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+C:\Users\SOFSIS\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Stock1.resources
+C:\Users\SOFSIS\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.StaffReg.resources
+C:\Users\SOFSIS\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\SOFSIS\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\Anoop.accdb
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Invoice.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.StaffReg.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Stock1.resources
+D:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\Anoop.accdb
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Invoice.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.StaffReg.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Stock1.resources
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SOFSIS\Desktop\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\Anoop.accdb
+D:\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Invoice.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.StaffReg.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Stock1.resources
+D:\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+D:\Anoop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.application
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.manifest
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.application
+D:\Anoop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Home.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Invoice.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Report.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.StaffReg.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Stock1.resources
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\bin\Debug\Anoop.accdb
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.application
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.manifest
+E:\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.application
+E:\Sofsis\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Sofsis\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Sofsis\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Sofsis\Dream Boys Billing System\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
